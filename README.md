@@ -27,11 +27,15 @@
 
 Je suis Arnold, developpeur web et consultant en marketing digital base a Kinshasa, en RDC.
 
-Actuellement Webmaster chez **ouragan.cd**, je gere la publication d'articles de presse, l'optimisation du contenu WordPress, et la conception de supports digitaux professionnels.
+Actuellement Webmaster chez **ouragan.cd**, je me forme en autodidacte pour devenir developpeur fullstack (React + React Native) et viser une opportunite internationale d'ici 2027 (Belgique / Canada).
 
-Je me forme activement pour devenir **developpeur fullstack** (React + React Native) et partir a l'international d'ici **2027**.
+- Localisation : Kinshasa, RDC
+- Poste actuel : Webmaster @ ouragan.cd
+- Formation en cours : JavaScript, React, React Native
+- Objectif 2027 : Move international (bourse Belgique/Canada)
+- Langues : Francais (natif), Anglais (intermediaire)
 
-> "Apprendre chaque jour. Construire des choses reelles. Livrer de la qualite."
+> *"La discipline bat le talent quand le talent ne travaille pas."*
 
 </td>
 <td width="50%" valign="top">
@@ -40,11 +44,15 @@ Je me forme activement pour devenir **developpeur fullstack** (React + React Nat
 
 I am Arnold, a web developer and digital marketing consultant based in Kinshasa, DRC.
 
-Currently working as Webmaster at **ouragan.cd**, managing press articles, WordPress content and professional digital materials.
+Currently working as Webmaster at **ouragan.cd**, I am self-teaching to become a fullstack developer (React + React Native) and aiming for an international opportunity by 2027 (Belgium / Canada).
 
-Actively training to become a **fullstack developer** (React + React Native) and move internationally by **2027**.
+- Location: Kinshasa, DRC
+- Current role: Webmaster @ ouragan.cd
+- Currently learning: JavaScript, React, React Native
+- Goal 2027: International move (Belgium/Canada scholarship)
+- Languages: French (native), English (intermediate)
 
-> "Learn every day. Build real things. Deliver quality."
+> *"Discipline beats talent when talent doesn't work hard."*
 
 </td>
 </tr>
@@ -52,9 +60,7 @@ Actively training to become a **fullstack developer** (React + React Native) and
 
 ---
 
-## Tech Stack & Skills
-
-<div align="center">
+## Tech Stack & Competences
 
 ### Currently Using
 
@@ -70,17 +76,15 @@ Actively training to become a **fullstack developer** (React + React Native) and
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Digital Marketing
 
-![Google](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-
-</div>
 
 ---
 
@@ -88,52 +92,66 @@ Actively training to become a **fullstack developer** (React + React Native) and
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=arnold-botamba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-botamba&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arnold-botamba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-botamba&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Freelance Services
+## Services Freelance
 
 <div align="center">
 
 | Service | Plateforme | Tarif |
 |---|---|---|
-| WordPress Website Creation | Fiverr & Malt | From $25 / 150 EUR |
-| Social Media Management | Fiverr & Malt | From $15/week / 80 EUR/month |
-| Canva Graphic Design | Fiverr & Malt | From $10 / 40 EUR |
-| Blog Writing (FR/EN) | Fiverr & Malt | From $15 / 25 EUR per article |
+| Creation de site WordPress | Fiverr & Malt | A partir de $150 USD |
+| Gestion des reseaux sociaux | Fiverr & Malt | A partir de $80 USD/mois |
+| Design graphique Canva | Fiverr & Malt | A partir de $30 USD |
+| Redaction de blog (FR/EN) | Fiverr & Malt | A partir de $20 USD/article |
 
 </div>
 
 ---
 
-## Mon Parcours / My Journey
+## Mon Parcours &nbsp;|&nbsp; My Journey
 
 ```
-2023 âââââââº Webmaster @ ouragan.cd (WordPress, content management)
-2026 âââââââº Learning JavaScript + React + React Native
-2026 âââââââº Google / HubSpot / Meta certifications
-2026 âââââââº Freelance on Fiverr & Malt.fr
-2027 âââââââº Master scholarship abroad (Belgium / Canada)
-2027 âââââââº International move â Fullstack Developer
+2023 âââº Debut en Webmaster @ ouragan.cd (Kinshasa, RDC)
+         Maitrise WordPress, HTML/CSS, Canva, Microsoft Office
+
+2024 âââº Formation autodidacte intensifiee
+         Debut JavaScript, notions de React
+         Lancement activite freelance (Fiverr, Malt)
+
+2025 âââº Approfondissement React + React Native
+         Premiers projets GitHub publics
+         Construction du portfolio HTML5
+
+2026 âââº Semaine 13 â GitHub profile actif, README professionnel
+         Stack: JavaScript ES6+, React hooks, Git workflow
+         Preparation candidatures bourses internationales
+
+2027 âââº Objectif : Move international
+         Belgique ou Canada (bourse / opportunite pro)
+         Developpeur Fullstack React/React Native confirmÃ©
 ```
 
 ---
 
-## Connect With Me
+## Me Contacter &nbsp;|&nbsp; Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-botamba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Arnold.digital@outlook.fr)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Arnold.digital@outlook.fr)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/arnolddigital)
-[![Malt](https://img.shields.io/badge/Malt-FC4B08?style=for-the-badge&logo=malt&logoColor=white)](https://malt.fr/profile/arnoldbotamba)
+[![Malt](https://img.shields.io/badge/Malt-FF6246?style=for-the-badge&logo=malt&logoColor=white)](https://malt.fr/profile/arnoldbotamba)
 
 </div>
 
+---
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:1a5276&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:1a5276&height=120&section=footer" />
 </div>
