@@ -1,58 +1,57 @@
-<!-- HEADER ANIME -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5276,100:2980b9&height=200&section=header&text=Arnold%20Botamba%20Longomo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20D%C3%A9veloppeur%20Web%20%7C%20Kinshasa%2C%20RDC&descAlignY=58&descSize=16" />
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Arnold%20Botamba%20Longomo&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Webmaster%20%7C%20Dev%20Web%2FMobile%20%7C%20Marketing%20Digital&descAlignY=55&descColor=a8b2d8" width="100%" alt="Header Banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=Webmaster+%40+ouragan.cd;Web+%26+Mobile+Developer+in+Training;Digital+Marketing+Consultant;WordPress+%7C+React+%7C+React+Native;Kinshasa+%E2%86%92+The+World+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&random=false&width=600&lines=Webmaster+%40+ouragan.cd+%F0%9F%8C%8D;Web+%26+Mobile+Developer+%F0%9F%92%BB;Digital+Marketing+Consultant+%F0%9F%93%88;WordPress+%7C+React+%7C+React+Native+%F0%9F%9A%80;Kinshasa+to+The+World+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=arnold-botamba&color=2980b9&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/arnold-botamba?style=flat-square&color=2980b9)
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=arnold-botamba&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Arnold-Digital12?label=Followers&style=for-the-badge&color=e94560)](https://github.com/Arnold-Digital12)
 
 </div>
 
 ---
 
-## A propos de moi &nbsp;|&nbsp; About Me
+## ð«ð· Ã propos de moi &nbsp;|&nbsp; ð¬ð§ About Me
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Francais**
+### ð«ð· FranÃ§ais
 
-Je suis Arnold, developpeur web et consultant en marketing digital base a Kinshasa, en RDC.
+Bonjour ! Je suis **Arnold Botamba Longomo**, Webmaster et Consultant en Marketing Digital basÃ© Ã  **Kinshasa, RDC**.
 
-Actuellement Webmaster chez **ouragan.cd**, je me forme en autodidacte pour devenir developpeur fullstack (React + React Native) et viser une opportunite internationale d'ici 2027 (Belgique / Canada).
+Je travaille chez **ouragan.cd** oÃ¹ je gÃ¨re la prÃ©sence web et les stratÃ©gies digitales. En autodidacte passionnÃ©, je me forme chaque jour pour devenir **dÃ©veloppeur fullstack** (React + React Native) et viser une opportunitÃ© internationale d'ici **2027** (Belgique / Canada).
 
-- Localisation : Kinshasa, RDC
-- Poste actuel : Webmaster @ ouragan.cd
-- Formation en cours : JavaScript, React, React Native
-- Objectif 2027 : Move international (bourse Belgique/Canada)
-- Langues : Francais (natif), Anglais (intermediaire)
+**Ce que je fais :**
+- ð CrÃ©ation de sites WordPress professionnels
+- ð± Initiation au dÃ©veloppement React & React Native
+- ð StratÃ©gie Marketing Digital & SEO
+- ð¨ CrÃ©ation graphique avec Canva
+- âï¸ RÃ©daction de contenu FR/EN
 
-> *"La discipline bat le talent quand le talent ne travaille pas."*
+> *"Le code est ma langue universelle â je l'apprends mot par mot, ligne par ligne."*
 
 </td>
 <td width="50%" valign="top">
 
-**English**
+### ð¬ð§ English
 
-I am Arnold, a web developer and digital marketing consultant based in Kinshasa, DRC.
+Hello! I'm **Arnold Botamba Longomo**, a Webmaster and Digital Marketing Consultant based in **Kinshasa, DRC**.
 
-Currently working as Webmaster at **ouragan.cd**, I am self-teaching to become a fullstack developer (React + React Native) and aiming for an international opportunity by 2027 (Belgium / Canada).
+I work at **ouragan.cd** managing web presence and digital strategies. As a passionate self-taught developer, I train every day to become a **fullstack developer** (React + React Native) and aim for an international opportunity by **2027** (Belgium / Canada scholarship).
 
-- Location: Kinshasa, DRC
-- Current role: Webmaster @ ouragan.cd
-- Currently learning: JavaScript, React, React Native
-- Goal 2027: International move (Belgium/Canada scholarship)
-- Languages: French (native), English (intermediate)
+**What I do:**
+- ð Professional WordPress website creation
+- ð± Learning React & React Native development
+- ð Digital Marketing Strategy & SEO
+- ð¨ Graphic design with Canva
+- âï¸ Content writing in FR/EN
 
-> *"Discipline beats talent when talent doesn't work hard."*
+> *"Code is my universal language â I learn it word by word, line by line."*
 
 </td>
 </tr>
@@ -60,9 +59,9 @@ Currently working as Webmaster at **ouragan.cd**, I am self-teaching to become a
 
 ---
 
-## Tech Stack & Competences
+## ð ï¸ Tech Stack & Skills
 
-### Currently Using
+### â¡ Currently Using
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,15 +70,15 @@ Currently working as Webmaster at **ouragan.cd**, I am self-teaching to become a
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Currently Learning
+### ð Currently Learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Digital Marketing
+### ð£ Digital Marketing
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
@@ -88,70 +87,85 @@ Currently working as Webmaster at **ouragan.cd**, I am self-teaching to become a
 
 ---
 
-## GitHub Stats
+## ð GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arnold-botamba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-botamba&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=arnold-botamba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnold-botamba&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## Services Freelance
+## ð¼ Freelance Services
 
 <div align="center">
 
 | Service | Plateforme | Tarif |
-|---|---|---|
-| Creation de site WordPress | Fiverr & Malt | A partir de $150 USD |
-| Gestion des reseaux sociaux | Fiverr & Malt | A partir de $80 USD/mois |
-| Design graphique Canva | Fiverr & Malt | A partir de $30 USD |
-| Redaction de blog (FR/EN) | Fiverr & Malt | A partir de $20 USD/article |
+|---------|-----------|-------|
+| ð CrÃ©ation site WordPress | Fiverr & Malt | Ã partir de $50 / 50â¬ |
+| ð± Gestion rÃ©seaux sociaux | Fiverr & Malt | Ã partir de $30 / 30â¬/mois |
+| ð¨ CrÃ©ation graphique Canva | Fiverr & Malt | Ã partir de $15 / 15â¬ |
+| âï¸ RÃ©daction blog (FR/EN) | Fiverr & Malt | Ã partir de $20 / 20â¬/article |
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/arnolddigital)
+[![Malt](https://img.shields.io/badge/Malt-FF5C57?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/arnoldbotamba)
 
 </div>
 
 ---
 
-## Mon Parcours &nbsp;|&nbsp; My Journey
+## ðºï¸ Mon Parcours / My Journey
 
 ```
-2023 âââº Debut en Webmaster @ ouragan.cd (Kinshasa, RDC)
-         Maitrise WordPress, HTML/CSS, Canva, Microsoft Office
+ð TIMELINE â Arnold Botamba Longomo
+âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
-2024 âââº Formation autodidacte intensifiee
-         Debut JavaScript, notions de React
-         Lancement activite freelance (Fiverr, Malt)
+2023  ââ ð± DÃ©but autodidacte | Self-taught start
+      â   WordPress, HTML, CSS, bases du Marketing Digital
+      â
+2024  ââ ð¼ Webmaster @ ouragan.cd â Kinshasa, DRC
+      â   Gestion web pro + stratÃ©gie digitale
+      â   Lancement profil Fiverr & Malt
+      â
+2025  ââ ð Formation JavaScript & React dÃ©marrÃ©e
+      â   GitHub actif | Premier projet HTML5 portfolio
+      â   Exploration React Native
+      â
+2026  ââ ð Semaine 14 â JavaScript + React en cours
+      â   Projets GitHub en construction
+      â   Dossier bourse internationale en prÃ©paration
+      â
+2027  ââ ð Objectif : Move international
+            Belgique ð§ðª / Canada ð¨ð¦ â Bourse ou emploi
+            DÃ©veloppeur Fullstack React + React Native
 
-2025 âââº Approfondissement React + React Native
-         Premiers projets GitHub publics
-         Construction du portfolio HTML5
-
-2026 âââº Semaine 13 â GitHub profile actif, README professionnel
-         Stack: JavaScript ES6+, React hooks, Git workflow
-         Preparation candidatures bourses internationales
-
-2027 âââº Objectif : Move international
-         Belgique ou Canada (bourse / opportunite pro)
-         Developpeur Fullstack React/React Native confirmÃ©
+âââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+ð¯ Mission : De Kinshasa au monde, une ligne de code Ã  la fois.
 ```
 
 ---
 
-## Me Contacter &nbsp;|&nbsp; Connect With Me
+## ð¤ Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnold-botamba)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:Arnold.digital@outlook.fr)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/arnolddigital)
-[![Malt](https://img.shields.io/badge/Malt-FF6246?style=for-the-badge&logo=malt&logoColor=white)](https://malt.fr/profile/arnoldbotamba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-botamba)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Arnold.digital@outlook.fr)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/arnolddigital)
+[![Malt](https://img.shields.io/badge/Malt-FF5C57?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/arnoldbotamba)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980b9,100:1a5276&height=120&section=footer" />
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=20&fontColor=e94560&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer Banner"/>
+
+*Semaine 14 â Avril 2026 | Week 14 â April 2026*
+
 </div>
